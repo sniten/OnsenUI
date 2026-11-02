@@ -73,7 +73,7 @@
     "rimraf": "^3.0.2",
     "rollup": "^2.52.3",
     "rollup-plugin-progress": "^1.1.2",
-    "rollup-plugin-vue": "4.2.0",
+    "rollup-plugin-vue": "6.0.0",
     "uglify-js": "^3.1.7",
     "vue": "^2.5.2",
     "vue-template-compiler": "^2.5.2"
